@@ -1,6 +1,7 @@
-Project Overview
+**Project Overview**
 
 Welcome to ConnectU, a semester-long project where you act as a Backend Engineer for a social media startup. By the end of the semester, you will have a fully functional text-based social network that handles users, posts, friendships, and algorithmic feeds using the data structures you learn in class.
+
 
 **The Codebase**
 
